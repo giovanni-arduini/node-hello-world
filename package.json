@@ -4,7 +4,8 @@
   "description": "first-app",
   "main": "index.js",
   "scripts": {
-    "test": "\"this is a test\""
+    "test": "",
+    "start": "index.js"
   },
   "author": "",
   "license": "ISC"
